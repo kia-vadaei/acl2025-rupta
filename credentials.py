@@ -13,4 +13,3 @@ gpt35_api_key = ""
 gpt35_api_version = "2023-05-15"
 openllm_endpoint = ""
 openllm_api_key = ""
-~                                                    
